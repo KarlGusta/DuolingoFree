@@ -2,8 +2,8 @@
 An open-source alternative to Duolingo
 
 ## Language suggestions
-Sheng
-Hausa
+- Sheng
+- Hausa
 Yoruba
 Turkana
 Zulu
